@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=mousepad.desktop,xfce4-settings-editor.desktop,mousepad-settings.desktop,xfce-keyboard-settings.desktop,firefox.desktop,retroarch.desktop,ristretto.desktop,org.inkscape.Inkscape.desktop,org.kde.kdenlive.desktop,supertuxkart.desktop
+recent=org.gnome.Boxes.desktop,xfce-ui-settings.desktop,mousepad.desktop,xfce4-settings-editor.desktop,mousepad-settings.desktop,xfce-keyboard-settings.desktop,firefox.desktop,retroarch.desktop,ristretto.desktop,org.inkscape.Inkscape.desktop
 button-icon=format-indent-less-rtl
 button-single-row=false
 show-button-title=false
